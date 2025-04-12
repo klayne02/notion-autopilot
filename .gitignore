@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments and configuration
+.env
+config/.env
+venv/
+env/
+
+# Local data
+data/updates.json
+data/changelog.csv
+data/*.log
+
+# macOS specific
+.DS_Store
